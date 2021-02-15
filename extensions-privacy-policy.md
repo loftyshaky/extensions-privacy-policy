@@ -4,7 +4,7 @@
 
 ## Clear New Tab
 
-Note: Old version of the Privacy Policy still applies to those who are on version 5.8.4 and below: https://bit.ly/cws-privacy-policy
+Note: The old version of the Privacy Policy still applies to those who are using version 5.8.4 and below: https://bit.ly/cws-privacy-policy
 
 Clear New Tab only stores data required for its operation. For example: the extension settings, images you uploaded in the extension.
 
