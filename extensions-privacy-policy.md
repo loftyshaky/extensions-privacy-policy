@@ -18,7 +18,7 @@ Scroll to Top only stores data required for its operation. For example: the exte
 
 All Scroll to Top data is stored using web-extension storage API. The stored data will be automatically synced between devices, provided the user has sync enabled.
 
-Synced Scroll to Top data is stored in your Google account. No other data is sent anywhere, under any circumstances.
+Synced Scroll to Top data is stored in your personal account (for example: Google or Microsoft account). No other data is sent anywhere, under any circumstances.
 
 ## Selected Text Searcher
 
@@ -26,7 +26,7 @@ Selected Text Searcher only stores data required for its operation. For example:
 
 All Selected Text Searcher data is stored using web-extension storage API. The stored data will be automatically synced between devices, provided the user has sync enabled.
 
-Synced Selected Text Searcher data is stored in your Google account. No other data is sent anywhere, under any circumstances.
+Synced Selected Text Searcher data is stored in your personal account (for example: Google or Firefox account). No other data is sent anywhere, under any circumstances.
 
 ## Close Other Tabs
 
