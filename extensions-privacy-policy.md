@@ -6,7 +6,7 @@
 
 Note: The old version of the Privacy Policy still applies to those who are using version 5.8.4 and below: https://bit.ly/cws-privacy-policy
 
-Clear New Tab only stores data required for its operation. For example: the extension settings, images you uploaded in the extension.
+Clear New Tab only stores data required for its functionality. For example: the extension settings, images you uploaded in the extension.
 
 All Clear New Tab data is stored offline in your browser.
 
@@ -14,7 +14,7 @@ No data is sent anywhere, under any circumstances.
 
 ## Scroll to Top
 
-Scroll to Top only stores data required for its operation. For example: the extension settings, the list of websites you blacklisted.
+Scroll to Top only stores data required for its functionality. For example: the extension settings, the list of websites you blacklisted.
 
 All Scroll to Top data is stored using web-extension storage API. The stored data will be automatically synced between devices, provided the user has sync enabled.
 
@@ -22,7 +22,7 @@ Synced Scroll to Top data is stored in your personal account (for example: Googl
 
 ## Selected Text Searcher
 
-Selected Text Searcher only stores data required for its operation. For example: the extension settings, search engines information.
+Selected Text Searcher only stores data required for its functionality. For example: the extension settings, search engines information.
 
 All Selected Text Searcher data is stored using web-extension storage API. The stored data will be automatically synced between devices, provided the user has sync enabled.
 
