@@ -32,7 +32,7 @@ Synced Selected Text Searcher data is stored in your personal account (for examp
 
 Close Other Tabs does not store any data.
 
-No data is collected from you or sent anywhere, under any circumstances.
+No data is collected from you or sent anywhere.
 
 ## Pronunciation Audio Url Copier for Anki
 
