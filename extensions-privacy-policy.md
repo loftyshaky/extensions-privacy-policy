@@ -4,8 +4,6 @@
 
 ## Clear New Tab
 
-Note: The old version of the Privacy Policy still applies to those who are using version 5.8.4 and below: https://github.com/loftyshaky/CWS-Privacy-Policy/blob/master/CWS%20Privacy%20Policy.md
-
 Clear New Tab only stores data required for its functionality. For example: the extension settings, images you uploaded in the extension.
 
 All Clear New Tab data is stored offline in your browser.
