@@ -1,6 +1,6 @@
 # Extensions - Privacy Policy
 
-*Updated on February 15, 2021*
+*Updated on July 12, 2021*
 
 ## Clear New Tab
 
