@@ -10,6 +10,14 @@ All Clear New Tab data is stored offline in your browser.
 
 No data is collected from you or sent anywhere.
 
+## Google Enhancement Suite
+
+Google Enhancement Suite only stores data required for its functionality. For example: the extension settings.
+
+All Google Enhancement Suite data is stored using web-extension storage API. The stored data will be automatically synced between devices, provided the user has sync enabled.
+
+Synced Google Enhancement Suite data is stored in your personal account (for example: Google or Microsoft account), nothing else is sent anywhere. No data is collected from you.
+
 ## Scroll to Top
 
 Scroll to Top only stores data required for its functionality. For example: the extension settings, the list of websites you blacklisted.
