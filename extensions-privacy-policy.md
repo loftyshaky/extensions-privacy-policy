@@ -1,6 +1,6 @@
 # Extensions - Privacy Policy
 
-*Updated on July 12, 2021*
+*Updated on August 25, 2021*
 
 ## Clear New Tab
 
@@ -10,13 +10,21 @@ All Clear New Tab data is stored offline in your browser.
 
 No data is collected from you or sent anywhere.
 
-## Google Enhancement Suite
+## Search Enhancer for Google™
 
-Google Enhancement Suite only stores data required for its functionality. For example: the extension settings.
+Search Enhancer for Google™ only stores data required for its functionality. For example: the extension settings.
 
-All Google Enhancement Suite data is stored using web-extension storage API. The stored data will be automatically synced between devices, provided the user has sync enabled.
+All Search Enhancer for Google™ data is stored using web-extension storage API. The stored data will be automatically synced between devices, provided the user has sync enabled.
 
-Synced Google Enhancement Suite data is stored in your personal account (for example: Google or Microsoft account), nothing else is sent anywhere. No data is collected from you.
+Synced Search Enhancer for Google™ data is stored in your personal account (for example: Google or Microsoft account), nothing else is sent anywhere. No data is collected from you.
+
+## Advanced Extension Reloader
+
+Advanced Extension Reloader only stores data required for its functionality. For example: the extension settings.
+
+All Advanced Extension Reloader data is stored using web-extension storage API. The stored data will be automatically synced between devices, provided the user has sync enabled.
+
+Synced Advanced Extension Reloader data is stored in your personal account (for example: Google or Microsoft account), nothing else is sent anywhere. No data is collected from you.
 
 ## Scroll to Top
 
