@@ -1,12 +1,18 @@
 # Extensions - Privacy Policy
 
-*Updated on August 25, 2021*
+_Updated on August 25, 2021_
 
 ## Clear New Tab
 
 Clear New Tab only stores data required for its functionality. For example: the extension settings, images you uploaded in the extension.
 
 All Clear New Tab data is stored offline in your browser.
+
+No data is collected from you or sent anywhere.
+
+## Empty New Tab Page
+
+Empty New Tab Page does not store any data.
 
 No data is collected from you or sent anywhere.
 
@@ -55,4 +61,5 @@ Pronunciation Audio Url Copier for Anki does not store any data.
 No data is collected from you or sent anywhere.
 
 ## Changes to the Privacy Policy
+
 This Privacy Policy may be updated in the future. We will indicate updates of the Privacy Policy by changing the last revision date on top. We advise you to check the Privacy Policy from time to time for any changes.
