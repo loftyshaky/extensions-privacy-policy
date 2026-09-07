@@ -1,6 +1,6 @@
 # Extensions - Privacy Policy
 
-_Updated on August 25, 2021_
+_Updated on September 8, 2026_
 
 ## Clear New Tab
 
@@ -48,11 +48,13 @@ All Selected Text Searcher data is stored using web-extension storage API. The s
 
 Synced Selected Text Searcher data is stored in your personal account (for example: Google or Firefox account), nothing else is sent anywhere. No data is collected from you.
 
-## Close Other Tabs
+## Close Other Tabs+
 
-Close Other Tabs does not store any data.
+Close Other Tabs+ only stores data required for its functionality. For example: the extension settings.
 
-No data is collected from you or sent anywhere.
+All Close Other Tabs+ data is stored using web-extension storage API. The stored data will be automatically synced between devices, provided the user has sync enabled.
+
+Synced Close Other Tabs+ data is stored in your personal account (for example: Google or Firefox account), nothing else is sent anywhere. No data is collected from you.
 
 ## Pronunciation Audio Url Copier for Anki
 
